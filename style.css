@@ -23,6 +23,8 @@ li{
 h1{
     font-weight: 100;
     margin: 10px;    
+    text-align: center;
+    
 }  
 main{
     display: flex;
@@ -34,15 +36,18 @@ main{
         font-size: 40px;
         line-height: 10px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
     }
     h3{
     font-size: 40px;
+    text-align: center;
     }
 
 h4{
     font-size: 30px;
     line-height: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
   }
 span{
     color: rgb(132,14 ,201 );
